@@ -1,7 +1,5 @@
-This program requires you to install nasm(https://github.com/netwide-assembler/nasm) and gcc <pre> ```bash sudo apt install build-essential ``` </pre> and probably a debain based linux system.
-Just compile the runner(chmod
-
-
+This program requires you to install nasm <pre> ```https://github.com/netwide-assembler/nasm ``` </pre> and gcc <pre> ```sudo apt install build-essential ``` </pre> and probably a debain based linux system.
+Just compile the runner <pre> ```chmod +x run.py ``` </pre> then run the script <pre> ```python3 run.py```</pre>
 
 
 
