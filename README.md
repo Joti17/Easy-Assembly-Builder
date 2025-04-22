@@ -1,3 +1,10 @@
+This program requires you to install nasm(https://github.com/netwide-assembler/nasm) and gcc <pre> ```bash sudo apt install build-essential ``` </pre> and probably a debain based linux system.
+Just compile the runner(chmod
+
+
+
+
+
 MIT License
 
 Copyright (c) 2025
